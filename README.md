@@ -5,10 +5,10 @@ This repository contains **OpenSpec** (spec-driven development) markdown artifac
 These files describe service behavior and implementation tasks — they are **not** a CI/CD pipeline.
 
 ## Files
-- `openspec/changes/user-management-service/proposal.md`
-- `openspec/changes/user-management-service/specs/spec.md`
-- `openspec/changes/user-management-service/design.md`
-- `openspec/changes/user-management-service/tasks.md`
+- `openspec/changes/user-mgmt-service/proposal.md`
+- `openspec/changes/user-mgmt-service/specs/spec.md`
+- `openspec/changes/user-mgmt-service/design.md`
+- `openspec/changes/user-mgmt-service/tasks.md`
 
 ## Next steps
 - Review `proposal.md`, `specs/spec.md`, `design.md`, and `tasks.md` under `openspec/changes/`.
